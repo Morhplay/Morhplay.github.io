@@ -1,0 +1,1302 @@
+<!DOCTYPE html>
+<!-- saved from url=(0023)https://www.tynker.com/ -->
+<html class="sticky-footer" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style><style>body {transition: opacity ease-in 0.2s; } 
+body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relative; } 
+</style>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="language" content="en">
+<meta name="google-site-verification" content="5DlMDlKLgHzjbegRYP9UHXr6EZ6a3a6J0-PRa_smKis">
+<meta name="description" content="Tynker’s proven online learning platform makes coding for kids fun, exciting and easy. Click here to learn more about this STEM program.">
+<link rel="canonical" href="https://www.tynker.com/">
+<meta name="apple-itunes-app" content="app-id=805869467">
+<link rel="icon" href="https://www.tynker.com/" sizes="32x32">
+<link rel="icon" href="https://www.tynker.com/logos/icons/appicon-180.png" sizes="180x180">
+<link rel="apple-touch-icon-precomposed" href="https://www.tynker.com/logos/icons/appicon-180.png" sizes="180x180">
+<link rel="manifest" href="https://www.tynker.com/manifest.json">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#c6eef9">
+
+<meta itemprop="name" content="Coding For Kids, Kids Programming Classes &amp; Games | Tynker">
+<meta itemprop="description" content="Tynker makes it fun and easy to learn computer programming. Get started today with Tynker&#39;s easy-to-learn, visual programming course designed for young learners in 4th through 8th grades.">
+<meta itemprop="image" content="https://www.tynker.com/image/homepage/share-thumbnail-homepage.png">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@gotynker">
+<meta name="twitter:title" content="Coding For Kids, Kids Programming Classes &amp; Games | Tynker">
+<meta name="twitter:description" content="Tynker makes it fun and easy to learn computer programming. Get started today with Tynker&#39;s easy-to-learn, visual programming course designed for young learners in 4th through 8th grades.">
+<meta name="twitter:image" content="https://www.tynker.com/image/homepage/share-thumbnail-homepage.png">
+<meta name="twitter:image:src" content="https://www.tynker.com/image/homepage/share-thumbnail-homepage.png">
+<meta property="twitter:image:width" content="1200">
+<meta property="twitter:image:height" content="630">
+<meta name="twitter:url" content="https://www.tynker.com">
+<meta name="twitter:creator" content="@gotynker">
+<meta property="fb:app_id" content="189623408308473">
+
+<meta property="og:title" content="Coding For Kids, Kids Programming Classes &amp; Games | Tynker">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://www.tynker.com/image/homepage/share-thumbnail-homepage.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:url" content="https://www.tynker.com">
+<meta property="og:description" content="Tynker makes it fun and easy to learn computer programming. Get started today with Tynker&#39;s easy-to-learn, visual programming course designed for young learners in 4th through 8th grades.">
+<meta property="og:site_name" content="Tynker.com">
+<meta property="article:tag" content="Tynker">
+<meta property="article:tag" content="STEM">
+<meta property="article:tag" content="Learn to code">
+<meta property="article:tag" content="Hour of Code">
+<meta property="article:tag" content="Coding for Kids">
+<meta property="article:tag" content="Minecraft">
+<meta property="article:tag" content="Minecraft Modding">
+<meta property="article:tag" content="Minecraft Courses">
+<script type="text/javascript" async="" src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/js"></script><script type="text/javascript" async="" src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/ec.js.download"></script><script async="" src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/analytics.js.download"></script><script async="" src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/gtm.js.download"></script><script type="application/ld+json">
+{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/www.tynker.com\/","name":"Tynker - Coding for Kids","description":"The #1 coding platform for kids. Tynker fuels learning across 87,000 schools and powers the imagination of 60 million kids worldwide. With Tynker, kids learn to code the fun and easy way with revolutionary visual code blocks that represent real programming concepts.","sameAs":["https:\/\/wikipedia.org\/wiki\/Tynker","https:\/\/www.wikidata.org\/wiki\/Q22909519","https:\/\/www.youtube.com\/channel\/UC2MAKe5X7pohhiMZ4nzdInA","https:\/\/twitter.com\/gotynker","https:\/\/www.facebook.com\/Gotynker\/","https:\/\/www.instagram.com\/tynkercoding\/","https:\/\/www.pinterest.com\/gotynker\/","https:\/\/www.linkedin.com\/company\/tynker"],"logo":"\/logos\/icons\/appicon-120.png","image":"https:\/\/www.tynker.com\/image\/og\/tynker-1200x630.jpg","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.tynker.com\/dashboard\/student\/#\/community?q={search_term}","query-input":"required name=search_term"},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.7,"reviewCount":5023}}</script>
+<meta name="enable_collector_modal" content="true">
+<title>Coding For Kids, Kids Programming Classes &amp; Games | Tynker</title>
+
+<link rel="preload" type="font/woff" href="https://www.tynker.com/global/fonts/open-sans/opensans-bold.woff" as="font" crossorigin="">
+<link rel="preload" type="font/ttf" href="https://www.tynker.com/global/fonts/montserrat/montserrat-bold.ttf" as="font" crossorigin="">
+<link rel="preload" type="font/ttf" href="https://www.tynker.com/global/fonts/montserrat/montserrat-regular.ttf" as="font" crossorigin="">
+<link rel="preload" type="font/woff" href="https://www.tynker.com/global/fonts/open-sans/opensans-regular.woff" as="font" crossorigin="">
+<link rel="preload" type="font/woff" href="https://www.tynker.com/global/fonts/open-sans/opensans-semibold.woff" as="font" crossorigin="">
+<link rel="preload" type="font/woff" href="https://www.tynker.com/global/fonts/icomoon/icomoon.woff" as="font" crossorigin="">
+<link rel="preconnect" href="https://www.google-analytics.com/">
+<link rel="preload" as="image" href="https://www.tynker.com/image/homepage/spring-2021/white-wave.svg">
+<link rel="preload" as="image" href="https://www.tynker.com/image/homepage/spring-2021/bg-graphic.webp">
+<link rel="preload" as="image" href="https://www.tynker.com/image/homepage/spring-2021/bg-sky.webp">
+<link rel="stylesheet" type="text/css" href="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/site_webpack_modern.css">
+<script type="text/javascript" src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/jquery-3.6.0.min.js.download"></script>
+<script type="text/javascript">
+                window.includeAvatarChooser = 'false';
+            </script>
+
+
+<script>
+    dataLayer = [{'rdp': true}];
+</script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-NFJHBQZ');</script>
+
+
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-34332914-1', 'auto');
+
+    // GA Optimize
+    ga('require', 'GTM-WRCH635');
+
+    
+            // Dimension 1: the member type custom dimension
+        ga('set', 'dimension1', 'Browser');
+    
+    // Dimension 2: A/B test tracking, if applicable
+    
+            ga('set', 'dimension3', 'Unknown');
+    
+    var isHiDpi = window.devicePixelRatio && window.devicePixelRatio >= 1.5;
+    ga('set', 'dimension5', isHiDpi);
+
+    var roleSelectorRole = window.localStorage ? window.localStorage.getItem('selectRole:role') : null;
+    if (roleSelectorRole) {
+        ga('set', 'dimension6', roleSelectorRole);
+    }
+
+        ga('require', 'ec');
+                        ga('send', 'pageview');
+            </script>
+
+
+<style type="text/css">
+        @media print {
+            ._hj_feedback_container { display: none; }
+        }
+    </style>
+<script>
+        (function(h,o,t,j,a,r){
+            h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+            h._hjSettings={hjid:133938,hjsv:5};
+            a=o.getElementsByTagName('head')[0];
+            r=o.createElement('script');r.async=1;
+            r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+    </script><script async="" src="https://static.hotjar.com/c/hotjar-133938.js?sv=5"></script>
+<script>
+    </script>
+<script async="" src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/modules.855de5fca5328f4d913a.js.download" charset="utf-8"></script><style type="text/css">iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}</style><meta class="foundation-mq"></head>
+<body class="site site-app js-home-page ">
+<div class=" ">
+<header id="header" class="header-new-app-4 hero-offset ">
+<nav class="zf-row ">
+<div class="zf-column small-2 hide-for-small-when-stuck hide-for-large off-canvas-toggle">
+<a data-toggle="off-canvas" href="javascript:void(0)" aria-expanded="false" aria-controls="off-canvas">
+<img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/icn-hamburger-white.png" style="width: 23px; height: 17px;" alt="Open menu">
+</a>
+</div>
+<div class="zf-column small-8 large-2 small-4-when-stuck logo text-center large-text-left">
+<div class="hide-when-stuck">
+<a href="https://www.tynker.com/?t=reset">
+<img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/tynker-byjus-logo-center-white.png" alt="Tynker" class="logo-img hide-for-medium" width="367" height="50">
+<img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/tynker-byjus-logo-white.png" alt="Tynker" class="logo-img show-for-medium" width="367" height="50">
+</a>
+</div>
+<div class="show-when-stuck">
+<a href="https://www.tynker.com/?t=reset">
+<img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/tynker-byjus-logo-center.png" alt="Tynker" class="logo-img hide-for-medium" width="367" height="50">
+<img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/tynker-byjus-logo.png" alt="Tynker" class="logo-img show-for-medium" width="367" height="50">
+</a>
+</div>
+</div>
+<div class=" zf-column large-7 small-8-when-stuck show-for-large large-padding-left-0 large-padding-right-0 text-center show-for-small-when-stuck">
+<ul>
+<li class="nav-item-free-play nav__item__link--highlighted highlighted  has-nav-menu hide-when-stuck">
+<a href="https://www.tynker.com/play/">
+<span class="icon-gamepad"></span> Play </a>
+<ul class="nav-menu">
+<li class="">
+<a href="https://www.tynker.com/play/">
+Coding Games </a>
+</li>
+<li class="">
+<a href="https://www.tynker.com/minecraft/">
+Minecraft </a>
+</li>
+<li class="">
+<a href="https://www.tynker.com/hour-of-code/">
+Hour of Code </a>
+</li>
+<li class="">
+<a href="https://www.tynker.com/code/">
+Start Coding </a>
+</li>
+</ul>
+</li>
+<li class="nav-item-parents   has-nav-menu hide-when-stuck">
+<a href="https://www.tynker.com/parents/">
+Parents </a>
+<ul class="nav-menu">
+<li class="default">
+<a href="https://www.tynker.com/parents/">
+Overview </a>
+</li>
+<li class="">
+<a href="https://www.tynker.com/parents/coding-classes/">
+Live Coding Classes </a>
+</li>
+<li class="default">
+<a href="https://www.tynker.com/parents/courses#/s/courses">
+Self-Paced Courses </a>
+</li>
+<li class="">
+<a href="https://www.tynker.com/parents/pricing">
+Plans &amp; Pricing </a>
+</li>
+<li class="">
+<a href="https://www.tynker.com/mobile/apps/tynker">
+Mobile Apps </a>
+</li>
+<li class="">
+<a href="https://www.tynker.com/ebooks">
+Coding eBooks </a>
+</li>
+</ul>
+</li>
+<li class="nav-item-educators   has-nav-menu hide-when-stuck">
+<a href="https://www.tynker.com/school/">
+Educators </a>
+<ul class="nav-menu">
+<li class="default">
+<a href="https://www.tynker.com/school/">
+Overview </a>
+</li>
+<li class="">
+<a href="https://www.tynker.com/school/coding-curriculum/">
+Curriculum </a>
+</li>
+<li class="">
+<a href="https://www.tynker.com/school/coding-curriculum/request">
+Request a Quote </a>
+</li>
+<li class="">
+<a href="https://www.tynker.com/school/training/">
+Training &amp; PD </a>
+</li>
+<li class="">
+<a href="https://www.tynker.com/InfosysFoundationK2">
+Apply for a Grant </a>
+</li>
+</ul>
+</li>
+<li class="nav-item-why_code   has-nav-menu hide-when-stuck">
+<a href="https://www.tynker.com/coding-for-kids/what-is-coding-for-kids">
+Why Code? </a>
+<ul class="nav-menu">
+<li class="default">
+<a href="https://www.tynker.com/coding-for-kids/what-is-coding-for-kids">
+What is Coding? </a>
+</li>
+<li class="">
+<a href="https://www.tynker.com/content/how-coding-develops-21st-century-skills">
+21st Century Skills </a>
+</li>
+<li class="">
+<a href="https://www.tynker.com/content/minecraft-modding-with-code">
+Coding with Minecraft </a>
+</li>
+</ul>
+</li>
+<li class="nav-flash">
+<span ng-show="state.flash.join" class="hide-for-small-only ng-hide" ng-class="{&#39;anonymous&#39;: state.user.isAnonymous}" ng-bind-html="state.flash.join.message"></span>
+</li>
+</ul>
+</div>
+<div class="zf-column large-3 show-for-large padding-left-0 text-right">
+<ul>
+<li class="has-button hide-when-stuck ">
+<a class="button header-button border" ng-class="{&#39;border&#39;: state.flash.join.actionLabel == null, &#39;join&#39;: state.flash.join.actionLabel != null}" ui-sref="join" rel="nofollow" ga-event-click="" ga-event-click-label="&#39;Navbar: Join - Join for Free&#39;" ng-bind="state.flash.join.actionLabel || &#39;Join for Free&#39;" href="https://www.tynker.com/#/join">Join for Free</a>
+</li>
+<li class="has-button hide-when-stuck xlarge-padding-left-1 xlarge-padding-right-1">
+<a class="button header-button" ui-sref="logIn" href="https://www.tynker.com/#/login">
+Log in </a>
+</li>
+</ul>
+</div>
+</nav>
+</header>
+</div>
+<main id="content" class="content content--footer-colorful ">
+<div class="off-canvas-wrapper ">
+<div class="off-canvas off-canvas-absolute position-left dashboard-sidebar is-transition-push is-closed" id="off-canvas" data-off-canvas="" aria-hidden="true" data-e="5ob779-e">
+<ul class="vertical menu dashboard-sidebar-nav dashboard-sidebar-nav-parent accordion-menu" data-accordion-menu="" role="tree" aria-multiselectable="true" data-e="fxym0b-e">
+<li class=" " role="treeitem">
+<a ui-sref="join" href="https://www.tynker.com/#/join">
+<span class="title">Join for Free</span>
+</a>
+</li>
+<li class=" " role="treeitem">
+<a ui-sref="logIn" href="https://www.tynker.com/#/login">
+<span class="title">Log in</span>
+</a>
+</li>
+<li class=" " role="treeitem">
+<a href="https://www.tynker.com/mobile/">
+<span class="title">Tynker Apps</span>
+</a>
+</li>
+<li class="is-accordion-submenu-parent has-pom" role="treeitem" aria-controls="lcqemq-acc-menu" aria-expanded="false" id="d14bek-acc-menu-link">
+<a href="https://www.tynker.com/parents/">
+<span class="title">Parents</span>
+</a>
+<ul class="site-submenu submenu is-accordion-submenu" data-submenu="" role="group" aria-labelledby="d14bek-acc-menu-link" aria-hidden="true" id="lcqemq-acc-menu">
+<li class="default is-submenu-item is-accordion-submenu-item" role="treeitem">
+<a href="https://www.tynker.com/parents/">
+Overview </a>
+</li>
+<li class="is-submenu-item is-accordion-submenu-item" role="treeitem">
+<a href="https://www.tynker.com/parents/coding-classes/">
+Live Coding Classes </a>
+</li>
+<li class="default is-submenu-item is-accordion-submenu-item" role="treeitem">
+<a href="https://www.tynker.com/parents/courses#/s/courses">
+Self-Paced Courses </a>
+</li>
+<li class="is-submenu-item is-accordion-submenu-item" role="treeitem">
+<a href="https://www.tynker.com/parents/pricing">
+Plans &amp; Pricing </a>
+</li>
+<li class="is-submenu-item is-accordion-submenu-item" role="treeitem">
+<a href="https://www.tynker.com/mobile/apps/tynker">
+Mobile Apps </a>
+</li>
+<li class="is-submenu-item is-accordion-submenu-item" role="treeitem">
+<a href="https://www.tynker.com/ebooks">
+Coding eBooks </a>
+</li>
+</ul>
+</li>
+<li class="is-accordion-submenu-parent has-pom" role="treeitem" aria-controls="0ivwlj-acc-menu" aria-expanded="false" id="dmmrwm-acc-menu-link">
+<a href="https://www.tynker.com/school/">
+<span class="title">Educators</span>
+</a>
+<ul class="site-submenu submenu is-accordion-submenu" data-submenu="" role="group" aria-labelledby="dmmrwm-acc-menu-link" aria-hidden="true" id="0ivwlj-acc-menu">
+<li class="default is-submenu-item is-accordion-submenu-item" role="treeitem">
+<a href="https://www.tynker.com/school/">
+Overview </a>
+</li>
+<li class="is-submenu-item is-accordion-submenu-item" role="treeitem">
+<a href="https://www.tynker.com/school/coding-curriculum/">
+Curriculum </a>
+</li>
+<li class="is-submenu-item is-accordion-submenu-item" role="treeitem">
+<a href="https://www.tynker.com/school/coding-curriculum/request">
+Request a Quote </a>
+</li>
+<li class="is-submenu-item is-accordion-submenu-item" role="treeitem">
+<a href="https://www.tynker.com/school/training/">
+Training &amp; PD </a>
+</li>
+<li class="is-submenu-item is-accordion-submenu-item" role="treeitem">
+<a href="https://www.tynker.com/InfosysFoundationK2">
+Apply for a Grant </a>
+</li>
+</ul>
+</li>
+<li class="is-accordion-submenu-parent has-pom" role="treeitem" aria-controls="m5s8ta-acc-menu" aria-expanded="false" id="ry5fg6-acc-menu-link">
+<a href="https://www.tynker.com/coding-for-kids/what-is-coding-for-kids">
+<span class="title">Why Code?</span>
+</a>
+<ul class="site-submenu submenu is-accordion-submenu" data-submenu="" role="group" aria-labelledby="ry5fg6-acc-menu-link" aria-hidden="true" id="m5s8ta-acc-menu">
+<li class="default is-submenu-item is-accordion-submenu-item" role="treeitem">
+<a href="https://www.tynker.com/coding-for-kids/what-is-coding-for-kids">
+What is Coding? </a>
+</li>
+<li class="is-submenu-item is-accordion-submenu-item" role="treeitem">
+<a href="https://www.tynker.com/content/how-coding-develops-21st-century-skills">
+21st Century Skills </a>
+</li>
+<li class="is-submenu-item is-accordion-submenu-item" role="treeitem">
+<a href="https://www.tynker.com/content/minecraft-modding-with-code">
+Coding with Minecraft </a>
+</li>
+</ul>
+</li>
+<li class=" " role="treeitem">
+<a href="https://www.tynker.com/parents/gift">
+<span class="title"><span class="icon-gift"></span> Gift</span>
+</a>
+</li>
+</ul>
+</div>
+<div class="off-canvas-content" data-off-canvas-content="">
+
+<section class="page-hero --homepage">
+
+<div class="page-hero__content">
+<div class="zf-row">
+<div class="zf-column small-10 small-offset-1 large-5 large-offset-0 gift-coding-link-container">
+<h1 class="page-hero__title">Coding Made Easy</h1>
+<p class="page-hero__description">The fun way to learn programming and develop problem-solving &amp; critical thinking skills! Ages 5-18</p>
+<a ui-sref="join" class="button primary large medium-margin-right-1" onclick="ga(&#39;send&#39;, &#39;event&#39;, &#39;Home Page&#39;, &#39;Button Click&#39;, &#39;Get Started for Free&#39;)" href="https://www.tynker.com/#/join">
+Get Started for Free
+</a>
+<p class="page-hero__footnote">
+<a href="https://www.tynker.com/parents/pricing">At-home plans from <span class="price">$7.50 per month</span></a>
+</p>
+<a class="hero-ghost-link" href="https://www.tynker.com/parents/"></a>
+</div>
+</div>
+</div>
+</section>
+<section class="section-control">
+<div class="zf-row medium-flex-row large-text-left">
+<div class="zf-column small-10 small-offset-1 medium-5 medium-offset-0 medium-push-7 large-6 large-push-6 margin-bottom-1 medium-margin-bottom-0 margin-top-1 text-center">
+<picture><source srcset="/image/homepage/spring-2021/learning-path.webp, /image/homepage/spring-2021/learning-path@2x.webp 2x" type="image/webp"><source srcset="/image/homepage/spring-2021/learning-path.png, /image/homepage/spring-2021/learning-path@2x.png 2x" type="image/png"><img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/learning-path.png" alt="Learning Paths" srcset="/image/homepage/spring-2021/learning-path.png, /image/homepage/spring-2021/learning-path@2x.png 2x" width="623" height="351" loading="lazy"></picture> </div>
+<div class="zf-column medium-7 medium-pull-5 large-6 large-pull-6">
+<h2>The #1 Coding Platform for Kids</h2>
+<p>
+Tynker powers the creativity of over <b>60 million kids</b> and serves thousands of schools and educators worldwide.
+</p>
+<p>
+Our interactive story-based learning allows kids to learn the basics with easy block-based coding challenges before seamlessly transitioning to real-world <a href="https://www.tynker.com/languages" target="_blank">text-based languages</a> like <b>JavaScript</b> and <b>Python</b>.
+</p>
+<p>
+With 70+ award-winning courses, there’s a learning path for every kid, no matter their age or level. We have over 5,000 learning modules, backed by hundreds of built-in tutorials and hands-on projects.
+</p>
+<p>
+<a href="https://www.tynker.com/code" class="button primary" onclick="ga(&#39;send&#39;, &#39;event&#39;, &#39;Home Page&#39;, &#39;Button Click&#39;, &#39;Start Coding Now&#39;)">
+Start Coding Now
+</a>
+</p>
+</div>
+</div>
+</section>
+<section class="section-control">
+<div class="zf-row">
+<div class="zf-column margin-bottom-1 medium-margin-bottom-2">
+<h2>
+Tynker has been busy. Good Busy. Check out what’s NEW!
+</h2>
+</div>
+<div class="zf-column medium-6 medium-offset-3 large-4 large-offset-0 margin-bottom-2 medium-margin-bottom-0" onclick="ga(&#39;send&#39;, &#39;event&#39;, &#39;HP What\&#39;s New&#39;, &#39;Clicked&#39;, &#39;AP Computer Science&#39;)">
+<div class="zf-row">
+<div class="zf-column medium-4 large-3 text-center margin-bottom-1 medium-margin-bottom-0 padding-right-0">
+<a class="hp-control-icon-new" href="https://www.tynker.com/about/press/2021/04-tynker-endorsed-by-college-board-for-new-ap-computer-science-curricula">
+<picture><source srcset="/image/homepage/spring-2021/icon-apcsa.webp, /image/homepage/spring-2021/icon-apcsa@2x.webp 2x" type="image/webp"><source srcset="/image/homepage/spring-2021/icon-apcsa.png, /image/homepage/spring-2021/icon-apcsa@2x.png 2x" type="image/png"><img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/icon-apcsa.png" alt="APCSA" srcset="/image/homepage/spring-2021/icon-apcsa.png, /image/homepage/spring-2021/icon-apcsa@2x.png 2x" width="84" height="84" loading="lazy"></picture> </a>
+</div>
+<div class="zf-column medium-8 large-9">
+<h3 class="h4">
+AP Computer Science
+</h3>
+<p>
+2 New AP® CS courses endorsed by the College Board.
+</p>
+<a href="https://www.tynker.com/about/press/2021/04-tynker-endorsed-by-college-board-for-new-ap-computer-science-curricula">
+Learn More
+</a>
+</div>
+</div>
+</div>
+<div class="zf-column medium-6 medium-offset-3 large-4 large-offset-0 margin-bottom-2 medium-margin-bottom-0" onclick="ga(&#39;send&#39;, &#39;event&#39;, &#39;HP What\&#39;s New&#39;, &#39;Clicked&#39;, &#39;Live Classes!&#39;)">
+<div class="zf-row">
+<div class="zf-column medium-4 large-3 text-center margin-bottom-1 medium-margin-bottom-0 padding-right-0">
+<a class="hp-control-icon-new" href="https://www.tynker.com/parents/coding-classes/">
+<img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/icon-tutor.svg" alt="Live Classes" width="131" height="131" loading="lazy">
+</a>
+</div>
+<div class="zf-column medium-8 large-9">
+<h3 class="h4">
+Live Classes
+</h3>
+<p>
+Live coding classes with a private teacher
+</p>
+<a href="https://www.tynker.com/parents/coding-classes/">
+Learn More
+</a>
+</div>
+</div>
+</div>
+<div class="zf-column medium-6 medium-offset-3 large-4 large-offset-0 end" onclick="ga(&#39;send&#39;, &#39;event&#39;, &#39;HP What\&#39;s New&#39;, &#39;Clicked&#39;, &#39;Tynker + BYJU’S!&#39;)">
+<div class="zf-row">
+<div class="zf-column medium-4 large-3 text-center margin-bottom-1 medium-margin-bottom-0 padding-right-0">
+<a class="hp-control-icon-new" href="https://www.tynker.com/about/press/2021/09-byju-s-acquires-leading-k-12-creative-coding-platform-tynker-to-continue-u-s-expansion">
+<picture><source srcset="/image/homepage/winter-2021/byjus.jpeg, /image/homepage/winter-2021/byjus@2x.jpeg 2x" type="image/webp"><source srcset="/image/homepage/winter-2021/byjus.jpeg, /image/homepage/winter-2021/byjus@2x.jpeg 2x" type="image/png"><img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/byjus.jpeg" alt="e-books" srcset="/image/homepage/winter-2021/byjus.jpeg, /image/homepage/winter-2021/byjus@2x.jpeg 2x" width="131" height="131" loading="lazy"></picture> </a>
+</div>
+<div class="zf-column medium-8 large-9">
+<h3 class="h4">Tynker + BYJU’S</h3>
+<p>Tynker has joined the BYJU’S family of brands.</p>
+<a href="https://www.tynker.com/about/press/2021/09-byju-s-acquires-leading-k-12-creative-coding-platform-tynker-to-continue-u-s-expansion">Learn More</a>
+</div>
+</div>
+ </div>
+</div>
+</section>
+<section class="section-control hp-control-swiggle">
+<div class="zf-row margin-bottom-2">
+<div class="zf-column large-6 text-center margin-bottom-1 large-margin-bottom-0">
+<picture><source srcset="/image/homepage/spring-2021/for-parents.webp, /image/homepage/spring-2021/for-parents@2x.webp 2x" type="image/webp"><source srcset="/image/homepage/spring-2021/for-parents.png, /image/homepage/spring-2021/for-parents@2x.png 2x" type="image/png"><img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/for-parents.png" alt="Tynker benefits for Parents" srcset="/image/homepage/spring-2021/for-parents.png, /image/homepage/spring-2021/for-parents@2x.png 2x" width="487" height="445" loading="lazy"></picture> </div>
+<div class="zf-column large-6 large-padding-right-4 large-padding-top-2">
+<h2>
+Parents
+</h2>
+<p>
+Coding is quickly becoming an essential skill, one that will prepare your kids to succeed in an increasingly digital world.
+</p>
+<p>
+Tynker offers a range of options to learn coding: Your children can learn to code with our self-paced, <a href="https://www.tynker.com/parents/courses">immersive game-like courses</a>, and then advance to learning real-world Python and JavaScript.
+</p>
+<p>
+Select the option that’s best for your child!
+</p>
+<a href="https://www.tynker.com/parents" class="button primary margin-bottom-0">
+Learn more
+</a>
+</div>
+</div>
+<div class="zf-row">
+<div class="zf-column large-6 large-push-6 text-center margin-bottom-1 large-margin-bottom-0">
+<picture><source srcset="/image/homepage/spring-2021/for-teachers.webp, /image/homepage/spring-2021/for-teachers@2x.webp 2x" type="image/webp"><source srcset="/image/homepage/spring-2021/for-teachers.png, /image/homepage/spring-2021/for-teachers@2x.png 2x" type="image/png"><img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/for-teachers.png" alt="Tynker benefits for Teachers" srcset="/image/homepage/spring-2021/for-teachers.png, /image/homepage/spring-2021/for-teachers@2x.png 2x" width="382" height="383" loading="lazy"></picture> </div>
+<div class="zf-column large-6 large-pull-6 large-padding-top-2 large-padding-left-2 large-padding-right-2">
+<h2>
+Educators
+</h2>
+<p>
+Join over 100,000 schools that use Tynker to engage students with coding and connect with other educators who love to code!
+</p>
+<p>
+Teaching coding with Tynker is as easy as 1-2-3. In just minutes, you can <a ui-sref="joinTeacher" href="https://www.tynker.com/#/join/teacher">create a free account</a>, set up your virtual classroom, and assign ready-made lesson plans!
+</p>
+<p>
+Tynker empowers K-12 educators with free PD, standards-aligned curricula, cross-curricular STEM coding, AP Computer Science courses, and many great coding resources.
+</p>
+<a href="https://www.tynker.com/school" class="button primary margin-bottom-0">
+Learn more
+</a>
+</div>
+</div>
+</section>
+<section class="section-control">
+<div class="zf-row zf-column text-center margin-bottom-2">
+<h2>
+3 Highly-Rated Mobile Apps for Learning Code
+</h2>
+<p>
+Download Tynker apps and learn to code on the go.
+</p>
+<div>
+<a href="https://www.tynker.com/mobile" class="button primary margin-bottom-0">
+Learn More
+</a>
+</div>
+</div>
+<div class="zf-row">
+<div class="zf-column small-10 small-offset-1 large-7 large-offset-0 margin-bottom-1 large-margin-bottom-0 text-center">
+<picture><source srcset="/image/homepage/spring-2021/graphic-mobile.webp, /image/homepage/spring-2021/graphic-mobile@2x.webp 2x" type="image/webp"><source srcset="/image/homepage/spring-2021/graphic-mobile.png, /image/homepage/spring-2021/graphic-mobile@2x.png 2x" type="image/png"><img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/graphic-mobile.png" alt="Tynker mobile apps" srcset="/image/homepage/spring-2021/graphic-mobile.png, /image/homepage/spring-2021/graphic-mobile@2x.png 2x" width="658" height="460" loading="lazy"></picture> </div>
+<div class="zf-column small-10 small-offset-1 large-5 large-offset-0 end">
+<div class="hp-control-app">
+<div class="zf-row">
+<div class="zf-column small-12 large-2 padding-right-0 margin-bottom-1 text-center">
+<a href="https://apps.apple.com/us/app/tynker-junior-coding-for-kids/id1393933000" target="_blank" rel="noreferrer">
+<picture><source srcset="/image/homepage/spring-2021/icon-junior.webp, /image/homepage/spring-2021/icon-junior@2x.webp 2x" type="image/webp"><source srcset="/image/homepage/spring-2021/icon-junior.png, /image/homepage/spring-2021/icon-junior@2x.png 2x" type="image/png"><img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/icon-junior.png" alt="Tynker Junior mobile app" srcset="/image/homepage/spring-2021/icon-junior.png, /image/homepage/spring-2021/icon-junior@2x.png 2x" width="46" height="47" loading="lazy"></picture> </a>
+</div>
+<div class="zf-column small-12 large-10">
+<h3 class="hp-control-app__title">
+<a href="https://apps.apple.com/us/app/tynker-junior/id1393933000" target="_blank" rel="noreferrer">
+Tynker Junior
+</a>
+</h3>
+<p>
+Tap-Tap picture coding with voice-overs. Pre-readers solve story-based puzzles and build their first programs in coding sandboxes. Ages 5-7
+</p>
+<div class="hp-control-app__meta">
+<div class="zf-row">
+<div class="zf-column small-5 medium-3 large-4">
+<div class="hp-control-app__rating">
+<span class="icon icon-star-3"></span>
+<span class="icon icon-star-3"></span>
+<span class="icon icon-star-3"></span>
+<span class="icon icon-star-3"></span>
+<span class="icon icon-star-2"></span>
+</div>
+</div>
+<div class="zf-column small-1 bold padding-0">
+4.5
+</div>
+<div class="zf-column small-6 medium-8 large-7 text-right large-text-left">
+2,200+ reviews
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="hp-control-app">
+<div class="zf-row">
+<div class="zf-column small-12 large-2 padding-right-0 margin-bottom-1 text-center">
+<a href="https://apps.apple.com/us/app/tynker-fun-coding-for-kids/id805869467" target="_blank" rel="noreferrer">
+<picture><source srcset="/image/homepage/spring-2021/icon-app.webp, /image/homepage/spring-2021/icon-app@2x.webp 2x" type="image/webp"><source srcset="/image/homepage/spring-2021/icon-app.png, /image/homepage/spring-2021/icon-app@2x.png 2x" type="image/png"><img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/icon-app.png" alt="Tynker mobile app" srcset="/image/homepage/spring-2021/icon-app.png, /image/homepage/spring-2021/icon-app@2x.png 2x" width="47" height="47" loading="lazy"></picture> </a>
+</div>
+<div class="zf-column small-12 large-10">
+<h3 class="hp-control-app__title">
+<a href="https://apps.apple.com/us/app/tynker-fun-coding-for-kids/id805869467" target="_blank" rel="noreferrer">
+Tynker
+</a>
+</h3>
+<p>
+Drag-and-drop block coding with a full-featured workshop. Build games and apps, compose music and art, control smart devices, and much, much more. Ages 6-11
+</p>
+<div class="hp-control-app__meta">
+<div class="zf-row">
+<div class="zf-column small-5 medium-3 large-4">
+<div class="hp-control-app__rating">
+<span class="icon icon-star-3"></span>
+<span class="icon icon-star-3"></span>
+<span class="icon icon-star-3"></span>
+<span class="icon icon-star-3"></span>
+<span class="icon icon-star-2"></span>
+</div>
+</div>
+<div class="zf-column small-1 bold padding-0">
+4.7
+</div>
+<div class="zf-column small-6 medium-8 large-7 text-right large-text-left">
+10,400+ reviews
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="hp-control-app">
+<div class="zf-row">
+<div class="zf-column small-12 large-2 padding-right-0 margin-bottom-1 text-center">
+<a href="https://apps.apple.com/us/app/mod-creator-for-minecraft/id1357670564" target="_blank" rel="noreferrer">
+<picture><source srcset="/image/homepage/spring-2021/icon-mod.webp, /image/homepage/spring-2021/icon-mod@2x.webp 2x" type="image/webp"><source srcset="/image/homepage/spring-2021/icon-mod.png, /image/homepage/spring-2021/icon-mod@2x.png 2x" type="image/png"><img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/icon-mod.png" alt="Tynker Mod Creator mobile app" srcset="/image/homepage/spring-2021/icon-mod.png, /image/homepage/spring-2021/icon-mod@2x.png 2x" width="47" height="47" loading="lazy"></picture> </a>
+</div>
+<div class="zf-column small-12 large-10">
+<h3 class="hp-control-app__title">
+<a href="https://apps.apple.com/us/app/mod-creator-for-minecraft/id1357670564" target="_blank" rel="noreferrer">
+Mod Creator
+</a>
+</h3>
+<p>
+Drag-and-drop Minecraft modding. Design skins, blocks and items. Modify mob behaviors. Create mods and add ons. Explore worlds! Ages 6-11
+</p>
+<div class="hp-control-app__meta">
+<div class="zf-row">
+<div class="zf-column small-5 medium-3 large-4">
+<div class="hp-control-app__rating">
+<span class="icon icon-star-3"></span>
+<span class="icon icon-star-3"></span>
+<span class="icon icon-star-3"></span>
+<span class="icon icon-star-3"></span>
+<span class="icon icon-star"></span>
+</div>
+</div>
+<div class="zf-column small-1 bold padding-0">
+4.0
+</div>
+<div class="zf-column small-6 medium-8 large-7 text-right large-text-left">
+3,300+ reviews
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="section-control">
+<div class="zf-row zf-column text-center margin-bottom-2">
+<h2>
+A Mini-Computer for the Internet of Things!
+</h2>
+</div>
+<div class="zf-row">
+<div class="zf-column large-7 large-push-5 margin-bottom-1 large-margin-bottom-0 text-center">
+<picture><source srcset="/image/homepage/spring-2021/graphic-bbc.webp, /image/homepage/spring-2021/graphic-bbc@2x.webp 2x" type="image/webp"><source srcset="/image/homepage/spring-2021/graphic-bbc.png, /image/homepage/spring-2021/graphic-bbc@2x.png 2x" type="image/png"><img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/graphic-bbc.png" alt="The BBC Doctor Who HiFive Inventor" srcset="/image/homepage/spring-2021/graphic-bbc.png, /image/homepage/spring-2021/graphic-bbc@2x.png 2x" width="581" height="378" loading="lazy"></picture> </div>
+<div class="zf-column large-5 large-pull-7 large-padding-right-4">
+<p>
+The BBC Doctor Who HiFive Inventor is a visually stunning IoT-enabled hand-shaped mini-computer designed to teach kids how to control robots or interface with IoT systems to investigate the world around them.
+</p>
+<p>
+Younger students will begin their learning journey with visual block coding and advanced students with Micropython.
+</p>
+<p>
+The HiFive Inventor was developed by Tynker in collaboration with BBC Learning and SiFive, a fabless RISC-V semiconductor company.
+</p>
+<p>
+Learn More: <br>
+<a href="https://www.hifiveinventor.com/" target="_blank" rel="noreferrer">
+www.HiFiveInventor.com
+</a>
+</p>
+</div>
+</div>
+</section>
+<div class="hp-control-resources">
+<section class="hp-control">
+<div class="zf-row margin-bottom-2 large-margin-bottom-4">
+<div class="zf-column large-8 large-offset-2 text-justify">
+<h2 class="text-center margin-bottom-2">
+Why Should Kids Learn to Code with Tynker?
+</h2>
+<p>
+Because <b>technology is so integrated</b> into virtually every aspect of our lives, learning about it is <b>more important than ever</b>.
+For kids, our coding platform makes it convenient and fun to gain knowledge that will serve them well throughout their lives.
+You can count on our <b>trusted methods</b> to help them develop and grow their capabilities with computers.
+</p>
+<p>
+Tynker isn’t just for schools and coding camps, though.
+Parents who value <b>STEM education</b> and want their children to know how to learn to code should know that our kids programming platform can be used at home, too.
+There are individual and family home plans, and our online coding classes for kids are a great way for them to gain the supplemental STEM skills needed for the world of the future.
+</p>
+</div>
+</div>
+<div class="zf-row small-up-2 large-up-4 margin-bottom-1">
+<div class="zf-column">
+<div class="card-resource --parents">
+<h3 class="card-resource__title">
+Coding Benefits
+</h3>
+<ul class="card-resource__link-list">
+<li>
+<a target="_blank" href="https://www.tynker.com/blog/articles/ideas-and-tips/10-reasons-kids-should-learn-to-code/">
+Top 10 Reasons to Code
+</a>
+</li>
+<li>
+<a target="_blank" href="https://www.tynker.com/blog/articles/ideas-and-tips/kids-coding-basics-why-teaching-your-kid-to-code-has-a-lifelong-impact/">
+Kids Coding Basics
+</a>
+</li>
+<li>
+<a target="_blank" href="https://www.tynker.com/content/how-coding-develops-21st-century-skills">
+Develop 21st Century Skills
+</a>
+</li>
+<li>
+<a target="_blank" href="https://www.tynker.com/ebooks">
+Download eBooks on Coding
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="zf-column">
+<div class="card-resource --parents">
+<h3 class="card-resource__title">
+Coding Guides
+</h3>
+<ul class="card-resource__link-list">
+<li>
+<a target="_blank" href="https://www.tynker.com/coding-for-kids/what-is-coding-for-kids">
+What is Coding for Kids
+</a>
+</li>
+<li>
+<a target="_blank" href="https://www.tynker.com/content/minecraft-modding-with-code">
+Coding with Minecraft
+</a>
+</li>
+<li>
+<a target="_blank" href="https://www.tynker.com/content/coding-with-electronic-kits">
+Coding with Electronic Kits
+</a>
+</li>
+<li>
+<a target="_blank" href="https://www.tynker.com/content/coding-with-connected-toys">
+Coding with Connected Toys
+</a>
+</li>
+<li>
+<a target="_blank" href="https://www.tynker.com/blog/?portfolio=resources-for-learning-to-code">
+More Coding Resources
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="zf-column">
+<div class="card-resource --parents">
+<h3 class="card-resource__title">
+Tynker Highlights
+</h3>
+<ul class="card-resource__link-list">
+<li>
+<a target="_blank" href="https://www.tynker.com/blog/?portfolio=tynker-platform-features">
+What’s New in Tynker?
+</a>
+</li>
+<li>
+<a target="_blank" href="https://www.tynker.com/content/Tynker-Coronavirus-Impact-Report.pdf">
+COVID-19 Impact report
+</a>
+</li>
+<li>
+<a target="_blank" href="https://www.tynker.com/blog/?portfolio=tynker-featured-makers">
+Meet our Featured Makers
+</a>
+</li>
+<li>
+<a target="_blank" href="https://www.tynker.com/blog/?portfolio=seasonal-coding-projects">
+Seasonal Coding Projects
+</a>
+</li>
+<li>
+<a target="_blank" href="https://www.tynker.com/blog/?portfolio=women-in-stem">
+Celebrating Women in STEM
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="zf-column">
+<div class="card-resource --parents">
+<h3 class="card-resource__title">
+Coding in Schools
+</h3>
+<ul class="card-resource__link-list">
+<li>
+<a target="_blank" href="https://www.tynker.com/school/coding-curriculum/">
+K-12 School Plans
+</a>
+</li>
+<li>
+<a target="_blank" href="https://www.tynker.com/high-school/coding-curriculum/apcs-principles">
+AP Computer Science Principles
+</a>
+</li>
+<li>
+<a target="_blank" href="https://www.tynker.com/high-school/coding-curriculum/apcs-a">
+AP Computer Science A
+</a>
+</li>
+<li>
+<a target="_blank" href="https://www.tynker.com/school/covid-19-educator-resources">
+Remote Learning
+</a>
+</li>
+<li>
+<a target="_blank" href="https://www.tynker.com/blog/?portfolio=k-12-success-stories">
+K-12 Success Stories
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<div class="hp-control-bubbles">
+<section class="hp-control">
+<div class="zf-row">
+<div class="zf-column large-8 large-offset-2 text-center">
+<h2>Trusted by Leading Brands</h2>
+<p>
+Our methods for learning to code all are provided within a safe, moderated community that is built around encouraging students to gain confidence in their abilities and do so without fear of failure.
+</p>
+</div>
+</div>
+<div class="zf-row  hp-control-brands">
+<div class="zf-column small-11 small-centered">
+<div class="zf-row">
+<div class="zf-column small-4 medium-3 large-2">
+<img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/logo-apple.png" alt="Apple" width="250" height="200" data-tooltip="" data-position="bottom" data-v-offset="-20" title="" onclick="ga(&#39;send&#39;, &#39;event&#39;, &#39;UI Element&#39;, &#39;Clicked&#39;, &#39;Apple Logo&#39;)" loading="lazy" aria-describedby="k7nwm5-tooltip" data-yeti-box="k7nwm5-tooltip" data-toggle="k7nwm5-tooltip" data-resize="k7nwm5-tooltip" class="has-tip" data-e="v4fqvd-e">
+</div>
+<div class="zf-column small-4 medium-3 large-2">
+<img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/logo-googleedu.png" alt="Google for Education" width="250" height="200" data-tooltip="" data-position="bottom" data-v-offset="-20" title="" onclick="ga(&#39;send&#39;, &#39;event&#39;, &#39;UI Element&#39;, &#39;Clicked&#39;, &#39;Google Edu Logo&#39;)" loading="lazy" aria-describedby="w079jm-tooltip" data-yeti-box="w079jm-tooltip" data-toggle="w079jm-tooltip" data-resize="w079jm-tooltip" class="has-tip" data-e="3lln9t-e">
+</div>
+<div class="zf-column small-4 medium-3 large-2">
+<img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/logo-microsoft.png" alt="Microsoft" width="250" height="200" data-tooltip="" data-position="bottom" data-v-offset="-20" title="" onclick="ga(&#39;send&#39;, &#39;event&#39;, &#39;UI Element&#39;, &#39;Clicked&#39;, &#39;Microsoft Logo&#39;)" loading="lazy" aria-describedby="1h7vdn-tooltip" data-yeti-box="1h7vdn-tooltip" data-toggle="1h7vdn-tooltip" data-resize="1h7vdn-tooltip" class="has-tip" data-e="74evms-e">
+</div>
+<div class="zf-column small-4 medium-3 large-2">
+<img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/logo-pbs.png" alt="PBS" width="250" height="200" data-tooltip="" data-position="bottom" data-v-offset="-20" title="" onclick="ga(&#39;send&#39;, &#39;event&#39;, &#39;UI Element&#39;, &#39;Clicked&#39;, &#39;PBS Logo&#39;)" loading="lazy" aria-describedby="ux1rcq-tooltip" data-yeti-box="ux1rcq-tooltip" data-toggle="ux1rcq-tooltip" data-resize="ux1rcq-tooltip" class="has-tip" data-e="uo96rf-e">
+</div>
+<div class="zf-column small-4 medium-3 large-2">
+<img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/logo-bbc-learning.png" alt="BBC Education Learning" width="250" height="200" data-tooltip="" data-position="bottom" data-v-offset="-20" title="" onclick="ga(&#39;send&#39;, &#39;event&#39;, &#39;UI Element&#39;, &#39;Clicked&#39;, &#39;BBC Education Learning&#39;)" loading="lazy" aria-describedby="yqsvbq-tooltip" data-yeti-box="yqsvbq-tooltip" data-toggle="yqsvbq-tooltip" data-resize="yqsvbq-tooltip" class="has-tip" data-e="hl686u-e">
+</div>
+<div class="zf-column small-4 medium-3 large-2">
+<img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/logo-facebook.png" alt="Facebook" width="250" height="200" data-tooltip="" data-position="bottom" data-v-offset="-20" title="" onclick="ga(&#39;send&#39;, &#39;event&#39;, &#39;UI Element&#39;, &#39;Clicked&#39;, &#39;Facebook Logo&#39;)" loading="lazy" aria-describedby="7o729r-tooltip" data-yeti-box="7o729r-tooltip" data-toggle="7o729r-tooltip" data-resize="7o729r-tooltip" class="has-tip" data-e="7vccgu-e">
+</div>
+<div class="zf-column small-4 medium-3 large-2 large-offset-1">
+<img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/logo-lego.png" alt="LEGO" width="250" height="200" data-tooltip="" data-position="bottom" data-v-offset="-20" title="" onclick="ga(&#39;send&#39;, &#39;event&#39;, &#39;UI Element&#39;, &#39;Clicked&#39;, &#39;LEGO Logo&#39;)" loading="lazy" aria-describedby="max2dg-tooltip" data-yeti-box="max2dg-tooltip" data-toggle="max2dg-tooltip" data-resize="max2dg-tooltip" class="has-tip" data-e="wx2fp7-e">
+</div>
+<div class="zf-column small-4 medium-3 large-2">
+<img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/logo-mc.png" alt="Minecraft Education Edition" width="250" height="200" data-tooltip="" data-position="bottom" data-v-offset="-20" title="" onclick="ga(&#39;send&#39;, &#39;event&#39;, &#39;UI Element&#39;, &#39;Clicked&#39;, &#39;MC:EE Logo&#39;)" loading="lazy" aria-describedby="8j5ofr-tooltip" data-yeti-box="8j5ofr-tooltip" data-toggle="8j5ofr-tooltip" data-resize="8j5ofr-tooltip" class="has-tip" data-e="etlkiz-e">
+</div>
+<div class="zf-column small-4 medium-3 large-2">
+<img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/logo-mattel.png" alt="Mattel" width="250" height="200" data-tooltip="" data-position="bottom" data-v-offset="-20" title="" onclick="ga(&#39;send&#39;, &#39;event&#39;, &#39;UI Element&#39;, &#39;Clicked&#39;, &#39;Mattel Logo&#39;)" loading="lazy" aria-describedby="975fgv-tooltip" data-yeti-box="975fgv-tooltip" data-toggle="975fgv-tooltip" data-resize="975fgv-tooltip" class="has-tip" data-e="eqtayg-e">
+</div>
+<div class="zf-column small-4 medium-3 large-2">
+<img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/logo-hotwheels.png" alt="Hot Wheels" width="250" height="200" data-tooltip="" data-position="bottom" data-v-offset="-20" title="" onclick="ga(&#39;send&#39;, &#39;event&#39;, &#39;UI Element&#39;, &#39;Clicked&#39;, &#39;Hot Wheels Logo&#39;)" loading="lazy" aria-describedby="jbi5ri-tooltip" data-yeti-box="jbi5ri-tooltip" data-toggle="jbi5ri-tooltip" data-resize="jbi5ri-tooltip" class="has-tip" data-e="2suw0l-e">
+</div>
+<div class="zf-column small-4 medium-3 large-2 end">
+<img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/logo-barbie.png" alt="Barbie" width="250" height="200" data-tooltip="" data-position="bottom" data-v-offset="-20" title="" onclick="ga(&#39;send&#39;, &#39;event&#39;, &#39;UI Element&#39;, &#39;Clicked&#39;, &#39;Barbie Logo&#39;)" loading="lazy" aria-describedby="gesr69-tooltip" data-yeti-box="gesr69-tooltip" data-toggle="gesr69-tooltip" data-resize="gesr69-tooltip" class="has-tip" data-e="9x9mus-e">
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="hp-control padding-bottom-0">
+<div class="zf-row zf-column hp-control-map-title text-center">
+<h2>Join Tynker's Global Community</h2>
+<button ui-sref="join" class="button primary large" href="#/join">
+Sign up free
+</button>
+</div>
+<div class="zf-row zf-column hp-control-map margin-bottom-4">
+<div class="hp-control-map-label --students">
+<span class="hp-control-map-label-content">
+<b>
+60 <br>Million
+</b>
+students
+</span>
+</div>
+<div class="hp-control-map-label --code">
+<span class="hp-control-map-label-content">
+<b>
+Over 7 Billion
+</b>
+lines of code
+</span>
+</div>
+<div class="hp-control-map-label --schools">
+<span class="hp-control-map-label-content">
+<b>
+Over 100 Thousand
+</b>
+schools
+</span>
+</div>
+</div>
+</section>
+<section class="hp-control padding-top-0">
+<div class="zf-row">
+<div class="zf-column small-12 medium-8 medium-offset-2 large-4 large-offset-0">
+<div class="hp-control-testimonial">
+<blockquote>
+<p>
+I thought a game was going to be extremely hard to make, but Tynker made it really easy.
+</p>
+</blockquote>
+<div class="hp-control-testimonial-meta">
+<span>
+<b>Tynker Featured Maker</b>
+</span>
+<img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/testimonial-student-cropped.png" srcset="/image/homepage/spring-2019/testimonial-student-cropped.png,
+                                         /image/homepage/spring-2019/testimonial-student-cropped@2x.png 2x" width="78" height="78" class="hp-control-testimonial-avatar" alt="Student testimonial" loading="lazy">
+</div>
+</div>
+</div>
+<div class="zf-column small-12 medium-8 medium-offset-2 large-4 large-offset-0">
+<div class="hp-control-testimonial">
+<blockquote>
+<p>
+There's so much opportunity once they understand how coding works.
+It's amazing to see them create incredible things themselves.
+</p>
+</blockquote>
+<div class="hp-control-testimonial-meta">
+<span>
+<b>Charlotte R.</b><br>
+Parent | Melbourne, Australia
+</span>
+<img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/testimonial-parent-cropped.png" srcset="/image/homepage/spring-2019/testimonial-parent-cropped.png,
+                                         /image/homepage/spring-2019/testimonial-parent-cropped@2x.png 2x" width="95" height="95" class="hp-control-testimonial-avatar" alt="Parent testimonial" loading="lazy">
+</div>
+</div>
+</div>
+<div class="zf-column small-12 medium-8 medium-offset-2 large-4 large-offset-0 end">
+<div class="hp-control-testimonial">
+<blockquote>
+<p>
+Tynker has made programming fun, exciting, and simple and will help lead kids into their future.
+</p>
+</blockquote>
+<div class="hp-control-testimonial-meta">
+<span>
+<b>Valerie S.</b><br>
+5th Grade Teacher | California, US
+</span>
+<img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/testimonial-teacher-cropped.png" srcset="/image/homepage/spring-2019/testimonial-teacher-cropped.png,
+                            /image/homepage/spring-2019/testimonial-teacher-cropped@2x.png 2x" width="89" height="89" class="hp-control-testimonial-avatar" alt="Teacher testimonial" loading="lazy">
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+<section class="section-control section-control-trophy-case section-control-light-blue  text-center">
+<section class="section-control-trophy-case text-center">
+<div class="zf-row medium-up-3 medium-flex-row">
+<div class="zf-column margin-bottom-1 medium-margin-bottom-0">
+<div class="zf-row small-up-3 flex-row">
+<div class="zf-column">
+<picture data-tooltip="" data-position="top" data-v-offset="0" title="" aria-describedby="uqjpgc-tooltip" data-yeti-box="uqjpgc-tooltip" data-toggle="uqjpgc-tooltip" data-resize="uqjpgc-tooltip" class="has-tip" data-e="1445yk-e">
+<source srcset="/image/homepage/awards/common-sense-selection-2020.webp, /image/homepage/awards/common-sense-selection-2020@2x.webp 2x" type="image/webp">
+<source srcset="/image/homepage/awards/common-sense-selection-2020.png, /image/homepage/awards/common-sense-selection-2020@2x.png" type="image/png">
+<img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/common-sense-selection-2020.png" alt="Common Sense Selection: Learning 2020" loading="lazy">
+</picture>
+</div>
+<div class="zf-column">
+<img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/award-aasl.png" alt="Winner of Best App, American Association of School Librarians" data-tooltip="" data-position="top" data-v-offset="0" title="" loading="lazy" aria-describedby="yqmj3x-tooltip" data-yeti-box="yqmj3x-tooltip" data-toggle="yqmj3x-tooltip" data-resize="yqmj3x-tooltip" class="has-tip" data-e="549s4d-e">
+</div>
+<div class="zf-column">
+<img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/award-smart-media.png" alt="Winner of the Academics&#39; Choice Smart Media Award" data-tooltip="" data-position="top" data-v-offset="0" title="" loading="lazy" aria-describedby="k7w291-tooltip" data-yeti-box="k7w291-tooltip" data-toggle="k7w291-tooltip" data-resize="k7w291-tooltip" class="has-tip" data-e="kj7151-e">
+</div>
+</div>
+</div>
+<div class="zf-column margin-bottom-1 medium-margin-bottom-0">
+<div class="zf-row small-up-3 flex-row">
+<div class="zf-column">
+<img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/award-parents-choice-gold@2x.png" alt="Winner of the Parents&#39; Choice Gold award" data-tooltip="" data-position="top" data-v-offset="0" title="" loading="lazy" aria-describedby="1qc7ju-tooltip" data-yeti-box="1qc7ju-tooltip" data-toggle="1qc7ju-tooltip" data-resize="1qc7ju-tooltip" class="has-tip" data-e="jpvqva-e">
+</div>
+<div class="zf-column">
+<img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/award-twillywig.png" alt="Winner of the Tillywig Brain Child award" data-tooltip="" data-position="top" data-v-offset="0" title="" loading="lazy" aria-describedby="p9bktl-tooltip" data-yeti-box="p9bktl-tooltip" data-toggle="p9bktl-tooltip" data-resize="p9bktl-tooltip" class="has-tip" data-e="snsbze-e">
+</div>
+<div class="zf-column">
+<img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/award-national-parenting-products.png" alt="Winner of the National Parenting Products Award" data-tooltip="" data-position="top" data-v-offset="0" title="" loading="lazy" aria-describedby="06ixmt-tooltip" data-yeti-box="06ixmt-tooltip" data-toggle="06ixmt-tooltip" data-resize="06ixmt-tooltip" class="has-tip" data-e="kuoqrw-e">
+</div>
+</div>
+</div>
+<div class="zf-column">
+<div class="zf-row small-up-3 flex-row">
+<div class="zf-column">
+<img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/award-moms-choice.png" alt="Winner of the Mom&#39;s Choice Award" data-tooltip="" data-position="top" data-v-offset="0" title="" loading="lazy" aria-describedby="bt0i0d-tooltip" data-yeti-box="bt0i0d-tooltip" data-toggle="bt0i0d-tooltip" data-resize="bt0i0d-tooltip" class="has-tip" data-e="8sobos-e">
+</div>
+<div class="zf-column">
+<picture data-tooltip="" data-position="top" data-v-offset="0" title="" aria-describedby="qisq0p-tooltip" data-yeti-box="qisq0p-tooltip" data-toggle="qisq0p-tooltip" data-resize="qisq0p-tooltip" class="has-tip" data-e="qm28vk-e">
+<source srcset="/image/homepage/awards/digital-education-awards-2021-winner.webp, /image/homepage/awards/digital-education-awards-2021-winner@2x.webp 2x" type="image/webp">
+<source srcset="/image/homepage/awards/digital-education-awards-2021-winner.png, /image/homepage/awards/digital-education-awards-2021-winner@2x.png" type="image/png">
+<img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/digital-education-awards-2021-winner.png" alt="Digital Education Awards 2020 Gold Award Winner" loading="lazy">
+</picture>
+</div>
+<div class="zf-column">
+<picture data-tooltip="" data-position="top" data-v-offset="0" title="" aria-describedby="1yptkv-tooltip" data-yeti-box="1yptkv-tooltip" data-toggle="1yptkv-tooltip" data-resize="1yptkv-tooltip" class="has-tip" data-e="xpbu15-e">
+<source srcset="/image/homepage/awards/parents-picks-awards-2020.webp, /image/homepage/awards/parents-picks-awards-2020@2x.webp 2x" type="image/webp">
+<source srcset="/image/homepage/awards/parents-picks-awards-2020.png, /image/homepage/awards/parents-picks-awards-2020@2x.png" type="image/png">
+<img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/parents-picks-awards-2020.png" alt="Parents&#39; Picks Awards 2020 Winner" loading="lazy">
+</picture>
+</div>
+</div>
+</div>
+
+</div>
+</section>
+</section>
+
+<collect-email-on-event collector-type="ebook" subscription-role="parent" timeout="25" mouseout="true">
+</collect-email-on-event>
+<div>
+<!----><div id="join-view" ui-view=""></div>
+</div>
+<div class="js-off-canvas-overlay is-overlay-absolute"></div></div>
+<help-button tags="faq" filters="parent,teacher,unknown,coding,block coding,uncategorized,puzzle,!answer key,!teacher guide" data-angular-directive="true"><div class="help-button" ng-click="vm.showHelpPanel()">
+    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+      <defs>
+        <clippath id="clip-icon-coach-trigger-_elementary">
+          <rect width="50" height="50"></rect>
+        </clippath>
+      </defs>
+      <g id="icon-coach-trigger-_elementary" data-name="icon-coach-trigger- elementary" clip-path="url(#clip-icon-coach-trigger-_elementary)">
+        <g id="Rectangle_4832" data-name="Rectangle 4832" fill="#76b853" stroke="#fff" stroke-width="2">
+          <path d="M25,0H58a0,0,0,0,1,0,0V50a0,0,0,0,1,0,0H25A25,25,0,0,1,0,25v0A25,25,0,0,1,25,0Z" stroke="none"></path>
+          <path d="M25,1H56a1,1,0,0,1,1,1V48a1,1,0,0,1-1,1H25A24,24,0,0,1,1,25v0A24,24,0,0,1,25,1Z" fill="none"></path>
+        </g>
+        <path id="Subtraction_41" data-name="Subtraction 41" d="M-5320-2316a17.885,17.885,0,0,1-12.729-5.272A17.881,17.881,0,0,1-5338-2334a17.883,17.883,0,0,1,5.272-12.728A17.885,17.885,0,0,1-5320-2352a17.881,17.881,0,0,1,12.727,5.272A17.881,17.881,0,0,1-5302-2334a17.88,17.88,0,0,1-5.272,12.728A17.881,17.881,0,0,1-5320-2316Zm-2.666-10.721v3.569h4.2v-3.569Zm2.469-14.242a2.586,2.586,0,0,1,1.977.742,2.912,2.912,0,0,1,.692,2.055,3.92,3.92,0,0,1-.607,2.141,7.567,7.567,0,0,1-1.62,1.784,9.843,9.843,0,0,0-2.3,2.255,5.792,5.792,0,0,0-.592,2.926h4.152a5.2,5.2,0,0,1,.271-1.862,3.428,3.428,0,0,1,1.143-1.349,9.53,9.53,0,0,0,2.662-2.584,5.806,5.806,0,0,0,1.063-3.353,5.62,5.62,0,0,0-1.819-4.4,7.307,7.307,0,0,0-5.016-1.62,7.6,7.6,0,0,0-4.817,1.455,4.943,4.943,0,0,0-1.8,4.2l.028.086h4.054a2.332,2.332,0,0,1,.749-1.841A2.667,2.667,0,0,1-5320.2-2340.963Z" transform="translate(5347 2359)" fill="#fff"></path>
+      </g>
+    </svg>
+</div>
+<div class="help-panel help-panel--context-teacher-dashboard">
+    <button class="help-panel__close-button">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" class="ng-scope">
+            <g transform="translate(-5 -3)">
+                <circle class="icon-close__bgd" cx="20" cy="20" r="20" transform="translate(10 6.7)" fill="#fff"></circle>
+                <path d="M37.6 31.5L33.1 27l4.5-4.5a.5.5 0 0 0 .1-.2.5.5 0 0 0 0-.5l-2.2-2.1a.5.5 0 0 0-.7 0l-4.5 4.5-4.5-4.5a.5.5 0 0 0-.2-.1.5.5 0 0 0-.5 0L23 21.9a.5.5 0 0 0-.1.5.5.5 0 0 0 0 .2l4.6 4.5-4.5 4.5a.5.5 0 0 0-.1.2.5.5 0 0 0 0 .5l2.2 2.1a.5.5 0 0 0 .7 0l4.5-4.5 4.5 4.5a.5.5 0 0 0 .7 0l2.1-2.1a.5.5 0 0 0 .1-.5.5.5 0 0 0 0-.2z"></path>
+            </g>
+        </svg>
+    </button>
+
+    <div class="content">
+        <!----><div ng-if="!vm.msgs.length" class="empty-state">
+            <h3>Search Tynker</h3>
+            <!---->
+            <!---->
+        </div><!---->
+        <!---->
+    </div>
+
+    <div class="query-prompt">
+        <form ng-submit="vm.queryML(vm.searchQuery)" class="ng-pristine ng-valid">
+            <input ng-model="vm.searchQuery" type="text" placeholder="Type a question" class="ng-pristine ng-untouched ng-valid ng-empty"> <a ng-click="vm.queryML(vm.searchQuery)" class="button"><span class=" icon-arrow-tri-right"></span></a>
+        </form>
+    </div>
+
+</div>
+</help-button>
+</div>
+
+<div class="content__right"></div>
+</main>
+<div class="pos-relative">
+<div class="bfs-fixed-banner">
+<div class="zf-row">
+<div class="zf-column large-10 large-offset-1">
+<div class="medium-flex-row flex-justify-space-around">
+<div class="bfs-fixed-banner__image show-for-medium">
+<img src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/tutor.png" srcset="/image/bfs/tutor.png,
+                                     /image/bfs/tutor@2x.png 2x" alt="">
+</div>
+<span class="bfs-fixed-banner__description">
+Live coding classes with a private teacher
+</span>
+<a href="https://www.tynker.com/parents/coding-classes/" class="button secondary margin-bottom-0" onclick="ga(&#39;send&#39;, &#39;event&#39;, &#39;BFS&#39;, &#39;Clicked&#39;, &#39;HP: Schedule a Free Class&#39;)">
+SCHEDULE A FREE CLASS
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer class=" margin-bottom-bfs-fixed-banner">
+<div class="footer-top zf-row">
+<div class="footer-about zf-column small-12 medium-5 large-4 xlarge-3">
+<h2>About</h2>
+<p>Tynker is the world’s leading K-12 creative coding platform, enabling students of all ages to learn to code at home, school, and on the go. Tynker’s highly successful coding curriculum has been used by one in three U.S. K-8 schools, 100,000 schools globally, and over 60 million kids across 150 countries.</p>
+<a class="kid-safe-seal hide-for-medium" rel="noreferrer" href="http://www.kidsafeseal.com/certifiedproducts/tynker.html" target="_blank">
+<img border="0" alt="Tynker.com (student login area) is certified by the kidSAFE Seal Program." title="Tynker.com (student login area) is certified by the kidSAFE Seal Program." src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/tynker_small_darktm.png" loading="lazy">
+</a>
+</div>
+<div class="footer-links zf-column small-12 medium-7 large-5 xlarge-6 show-for-medium">
+<div class="zf-row">
+<div class="zf-column small-4">
+<h2>Resources</h2>
+<ul>
+<li><a rel="noreferrer" href="http://www.tynker.com/blog/">Blog</a></li>
+<li><a href="https://www.tynker.com/about/">About Us</a></li>
+<li><a href="https://www.tynker.com/about/press/">Press</a></li>
+<li><a href="https://www.tynker.com/about/career">Jobs</a></li>
+<li><a href="https://www.tynker.com/mobile/">Mobile Apps</a></li>
+<li><a href="https://www.tynker.com/ebooks">Coding eBooks</a></li>
+<li><a href="https://www.tynker.com/scholarship/">Scholarship</a></li>
+<li><a rel="noreferrer" href="https://forum.tynker.com/" target="_blank">Forum</a></li>
+<li><a rel="noreferrer" href="https://shop.tynker.com/" target="_blank">Store</a></li>
+<li><a href="https://www.tynker.com/call-to-authors">CS Authors</a></li>
+</ul>
+</div>
+<div class="zf-column small-4">
+<h2>Parents</h2>
+<ul>
+<li><a href="https://www.tynker.com/parents/courses">Overview</a></li>
+<li><a href="https://www.tynker.com/parents/coding-classes">Live Coding Classes</a></li>
+<li><a href="https://www.tynker.com/gift/">Give a Gift</a></li>
+<li><a href="https://www.tynker.com/redeem/">Redeem</a></li>
+<li><a href="https://www.tynker.com/content/why-coding">Why Coding</a></li>
+<li><a href="https://www.tynker.com/blog/articles/category/success-stories/featured-makers/">Featured Makers</a></li>
+</ul>
+</div>
+<div class="zf-column small-4">
+<h2>Educators</h2>
+<ul>
+<li><a href="https://www.tynker.com/school/">Overview</a></li>
+<li><a href="https://www.tynker.com/elementary-school/coding-curriculum">Elementary</a></li>
+<li><a href="https://www.tynker.com/middle-school/coding-curriculum">Middle School</a></li>
+<li><a href="https://www.tynker.com/high-school/coding-curriculum">High School</a></li>
+<li><a href="https://www.tynker.com/high-school/coding-curriculum/apcs-principles">AP CS Courses</a></li>
+<li><a href="https://www.tynker.com/school/training/">PD</a></li>
+<li><a href="https://www.tynker.com/hour-of-code/">Hour of Code</a></li>
+<li><a href="https://www.tynker.com/school/stem?t=physical+science">STEM Projects</a></li>
+<li><a href="https://www.tynker.com/school/coding-curriculum/request">Request a Quote</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="zf-column small-12 medium-12 large-3">
+<div class="zf-row">
+<div class="zf-column small-8 medium-7 large-12">
+<h2>Parent Newsletter</h2>
+<form id="subscribe-form" class="subscribe-form js-subscribe-form ng-pristine ng-valid" action="https://www.tynker.com/forms/subscribe" method="post">
+<input type="hidden" name="type" value="email-collector-footer">
+<input type="hidden" name="strict" value="false">
+<div class="alert-error hidden js-error"></div>
+<input type="text" required="" name="email" placeholder="Enter Your Email">
+<input class="button secondary" type="submit" name="subscribe" value="OK">
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="footer-bottom zf-row">
+<div class="zf-column">
+<a rel="noreferrer" class="kid-safe-seal show-for-medium" href="http://www.kidsafeseal.com/certifiedproducts/tynker.html" target="_blank">
+<img border="0" alt="Tynker.com (student login area) is certified by the kidSAFE Seal Program." title="Tynker.com (student login area) is certified by the kidSAFE Seal Program." src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/tynker_small_darktm.png" loading="lazy">
+</a>
+© 2022 Neuron Fuel <a href="https://www.tynker.com/terms" target="_blank">Terms &amp; Conditions</a>
+<a class="privacy-policy" href="https://www.tynker.com/privacy/student" target="_blank">Privacy Policy</a>
+<a href="https://www.tynker.com/kids-online-safety" target="_blank">Kids &amp; Online Safety</a>
+<a href="https://www.tynker.com/about/">About Us</a>
+<a class="info" href="https://www.tynker.com/about/contact">Contact Us</a>
+</div>
+</div>
+</footer>
+
+<script type="text/javascript" src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/foundation.min.js.download"></script>
+<script type="text/javascript" src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/jquery.cookie.js.download"></script>
+<script type="text/javascript" src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/jquery.modal.min.js.download"></script>
+<script type="text/javascript" src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/jquery.ddslick.custom.min.js.download"></script>
+<script type="text/javascript" src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/slick.min.js.download"></script>
+<script type="text/javascript" src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/jquery.avatar.js.download"></script>
+<script type="text/javascript" src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/header.js.download"></script>
+<script type="text/javascript" src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/spine.js.download"></script>
+<script type="text/javascript" src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/chooseavatar.js.download"></script>
+<script type="text/javascript" src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/characters"></script>
+<script type="text/javascript" src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/raven.min.js.download" crossorigin="anonymous"></script>
+<script type="text/javascript">
+    Raven.config('https://2c0dae7996fa454ea1a9ce1016e4c329@sentry.tynker.com/5', {
+        dataCallback: function (data) {
+            if(window.location !== undefined && window.location.href != null) {
+                if(data.extra === undefined) { data.extra = {}; }
+                data.extra['full_url'] = window.location.href;
+            }
+            return data;
+        },
+        ignoreErrors: [
+            // Error generated by a bug in auto-fill library from browser
+            // https://github.com/getsentry/sentry/issues/5267
+            /Blocked a frame with origin/,
+        ]
+    }).install();
+    Raven.setUserContext([]);
+    window.__Raven = Raven;
+</script>
+<script nomodule="" type="text/javascript" src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/site_webpack.js.download" crossorigin="anonymous"></script>
+<script type="module" src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/site_webpack_modern.js.download" crossorigin="anonymous"></script>
+<script id="site-state" type="application/json">
+    {"csrf_key":"csrf_token_site","csrf_token":"2ce06203-93dc-49b8-bcdf-81b9a16431c8","isEU":false,"isUserLoggedIn":false,"isToolsLogin":null,"enableJoinForFree":true,"enableModalSignInRoleSelector":true,"modalForgotPasswordTemplateModifier":null,"modalSignInTemplateModifier":null}</script>
+
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NFJHBQZ"
+                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<script>
+/**
+ * Log an event.  Uses google analytics.  If doesn't exist, will nop.
+ */
+function _log(module, action, label, value) {
+    if (!window.ga) {
+        return;
+    }
+
+    // Assemble the category dynamically
+    var category = '(teacher) portal - ' + module;
+
+    // @TODO: Temporary, for assessing the event quota (too many events) hypothesis
+    // Silencing all events with category "(student) portal - myclass"
+    if (category == '(student) portal - myclass') {
+        return;
+    }
+
+    var params = ['send', 'event', category, action];
+    if (label) {
+        params.push('' + label);
+        if (value) {
+            params.push(parseInt(value));
+        }
+    }
+    ga.apply(null, params);
+}
+</script>
+
+<script>
+    </script>
+ <script>
+        $(document).ready(function() {
+            $(document).foundation();
+
+            // @lmartinho HACK: For the subscribe form only
+            // AJAX the newsletter subscribe form, but use custom success action
+            // (redirect to the /about/newsletter page in edit mode
+            $('.js-subscribe-form').ajaxForm({
+                success: function(data) {
+                    if (!data.subscription_id) {
+                        $(this).find('.js-error').text(data.error);
+                        return;
+                    }
+                    var subscriptionId = data.subscription_id;
+                    window.location = '/about/newsletter?id=' + subscriptionId;
+                }
+            });
+
+            // Lazy load images
+            var imageObserver = new IntersectionObserver(function(entries, observer) {
+                for (const entry of entries) {
+                    if (entry.isIntersecting) {
+                        var image = entry.target;
+                        image.src = image.dataset.src;
+                        image.classList.remove('lazy-img');
+                        imageObserver.unobserve(image);
+                    }
+                }
+            });
+            document.querySelectorAll('.lazy-img').forEach(function(el){
+                imageObserver.observe(el);
+            });
+        });
+    </script>
+<script defer="" src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon="{&quot;rayId&quot;:&quot;6dc32ec06f3971e4&quot;,&quot;token&quot;:&quot;140bac3bd19941da93aff0870b975d1b&quot;,&quot;version&quot;:&quot;2021.12.0&quot;,&quot;si&quot;:100}" crossorigin="anonymous"></script>
+
+
+<div class="tooltip" role="tooltip" aria-hidden="true" data-is-active="false" data-is-focus="false" id="k7nwm5-tooltip" style="display: none;">Apple selects Tynker for their Everyone Can Code program and uses Tynker to teach coding at Apple Store.</div><div class="tooltip" role="tooltip" aria-hidden="true" data-is-active="false" data-is-focus="false" id="w079jm-tooltip" style="display: none;">Tynker is a Premium Partner with Google Education providing CS curriculum to schools and districts worldwide.</div><div class="tooltip" role="tooltip" aria-hidden="true" data-is-active="false" data-is-focus="false" id="1h7vdn-tooltip" style="display: none;">Microsoft selects Tynker as coding solution for Minecraft: Education Edition.</div><div class="tooltip" role="tooltip" aria-hidden="true" data-is-active="false" data-is-focus="false" id="ux1rcq-tooltip" style="display: none;">WGBH Boston and Tynker partner to provide coding lessons with PEEP and the Big Wide World.</div><div class="tooltip" role="tooltip" aria-hidden="true" data-is-active="false" data-is-focus="false" id="yqsvbq-tooltip" style="display: none;">BBC Learning partners with Tynker to transform education and learning outcomes in students.</div><div class="tooltip" role="tooltip" aria-hidden="true" data-is-active="false" data-is-focus="false" id="7o729r-tooltip" style="display: none;">Tynker ran hackathons for three summers to encourage kids of Facebook employees to learn to code.</div><div class="tooltip" role="tooltip" aria-hidden="true" data-is-active="false" data-is-focus="false" id="max2dg-tooltip" style="display: none;">Tynker launches WeDo Coding - a course for kids to extend LEGO WeDo sensor programming into their games.</div><div class="tooltip" role="tooltip" aria-hidden="true" data-is-active="false" data-is-focus="false" id="8j5ofr-tooltip" style="display: none;">Tynker supports modding for all versions of Minecraft as well as Code Builder integration for Minecraft: EE.</div><div class="tooltip" role="tooltip" aria-hidden="true" data-is-active="false" data-is-focus="false" id="975fgv-tooltip" style="display: none;">Mattel and Tynker partner and commit to introduce 10 million kids to coding with Tynker and Mattel brands.</div><div class="tooltip" role="tooltip" aria-hidden="true" data-is-active="false" data-is-focus="false" id="jbi5ri-tooltip" style="display: none;">Mattel and Tynker combine iconic brands with CS curriculum to launch coding lessons for young learners.</div><div class="tooltip" role="tooltip" aria-hidden="true" data-is-active="false" data-is-focus="false" id="gesr69-tooltip" style="display: none;">Mattel and Tynker launch Barbie coding lessons to inspire girls to explore STEM and learn coding skills.</div><div class="tooltip" role="tooltip" aria-hidden="true" data-is-active="false" data-is-focus="false" id="uqjpgc-tooltip" style="display: none;">Common Sense Selection: Learning 2020</div><div class="tooltip" role="tooltip" aria-hidden="true" data-is-active="false" data-is-focus="false" id="yqmj3x-tooltip" style="display: none;">Winner of Best App, American Association of School Librarians</div><div class="tooltip" role="tooltip" aria-hidden="true" data-is-active="false" data-is-focus="false" id="k7w291-tooltip" style="display: none;">Winner of the Academics' Choice Smart Media Award</div><div class="tooltip" role="tooltip" aria-hidden="true" data-is-active="false" data-is-focus="false" id="1qc7ju-tooltip" style="display: none;">Winner of the Parents' Choice Gold award</div><div class="tooltip" role="tooltip" aria-hidden="true" data-is-active="false" data-is-focus="false" id="p9bktl-tooltip" style="display: none;">Winner of the Tillywig Brain Child award</div><div class="tooltip" role="tooltip" aria-hidden="true" data-is-active="false" data-is-focus="false" id="06ixmt-tooltip" style="display: none;">Winner of the National Parenting Products Award</div><div class="tooltip" role="tooltip" aria-hidden="true" data-is-active="false" data-is-focus="false" id="bt0i0d-tooltip" style="display: none;">Winner of the Mom's Choice Award</div><div class="tooltip" role="tooltip" aria-hidden="true" data-is-active="false" data-is-focus="false" id="qisq0p-tooltip" style="display: none;">Digital Education Awards 2020 Gold Award Winner</div><div class="tooltip" role="tooltip" aria-hidden="true" data-is-active="false" data-is-focus="false" id="1yptkv-tooltip" style="display: none;">Parents' Picks Awards 2020 Winner</div><iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="./Coding For Kids, Kids Programming Classes &amp; Games _ Tynker_files/box-acca23410e696f2ca3087d947271c3d0.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe></body></html>
